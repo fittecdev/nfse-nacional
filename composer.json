@@ -1,5 +1,5 @@
 {
-  "name": "hadder/nfse-nacional",
+  "name": "fittecdev/nfse-nacional",
   "description": "Pacote para geração de NFSe Nacional usando componentes NFePHP (https://github.com/nfephp-org)",
   "keywords": [
     "nfse-nacional",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Hadder\\NfseNacional\\": "src/"
+      "fittecdev\\NfseNacional\\": "src/"
     },
     "files": [
       "Helpers.php"
@@ -17,8 +17,8 @@
   },
   "authors": [
     {
-      "name": "Fernando Friedrich",
-      "email": "fernando@hadder.com.br"
+      "name": "Fit",
+      "email": "suporte@fittecnologia.com"
     }
   ],
   "minimum-stability": "dev",
